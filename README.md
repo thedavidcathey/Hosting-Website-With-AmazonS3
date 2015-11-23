@@ -10,4 +10,4 @@ Launch the presentation at http://thedavidcathey.github.io/Hosting-Website-With-
 Author
 ------
 
-David L Cathey (https://github.com/thedavidcathey
+David L Cathey (https://github.com/thedavidcathey)
